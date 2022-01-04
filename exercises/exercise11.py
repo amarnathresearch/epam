@@ -67,3 +67,7 @@ f.close()
 f1.close()
 f2.close()
 f3.close()
+
+
+node = {'node':{'node':{'node':{'node':{'node':{'node':['node', {'node':{'node':'epam'}}]}}}}}}
+print(node)
